@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing e-commerce transactional data to uncover insights into customer behavior, sales performance, and product trends. The goal is to transform raw data into meaningful business intelligence that can inform strategic decisions.
+This project focuses on analyzing e-commerce transactional data to uncover insights into customer behavior, sales performance, and product trends. The goal is to transform raw data into meaningful business intelligence that can inform strategic decisions. By integration of MySQL and Jupyter Notebook in Python Language.
 
 
 ---
@@ -29,7 +29,7 @@ This project focuses on analyzing e-commerce transactional data to uncover insig
 
 ## 🧰 Tools & Technologies
 
-- **Language:** Python  
+- **Language:** Python, SQL
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Platform:** Jupyter Notebook  
 
@@ -62,3 +62,5 @@ jupyter notebook Project_commerce.ipynb
 👤 **Umesh Kanojia**  
 🔗 [LinkedIn](https://www.linkedin.com/in/umesh-lalman-kanojia/)  
 📧 umeshkanojia1199@gmail.com
+
+---
