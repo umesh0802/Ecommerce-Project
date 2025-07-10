@@ -4,6 +4,7 @@
 
 This project focuses on analyzing e-commerce transactional data to uncover insights into customer behavior, sales performance, and product trends. The goal is to transform raw data into meaningful business intelligence that can inform strategic decisions.
 
+
 ---
 
 ## 📊 Objectives
@@ -12,6 +13,7 @@ This project focuses on analyzing e-commerce transactional data to uncover insig
 - Identify top-selling products and categories
 - Analyze customer purchasing patterns and trends
 - Visualize sales and revenue growth over time
+
 
 ---
 
@@ -22,6 +24,7 @@ This project focuses on analyzing e-commerce transactional data to uncover insig
 - 📦 Product category distribution
 - 👤 Customer segmentation and order frequency
 
+
 ---
 
 ## 🧰 Tools & Technologies
@@ -30,19 +33,16 @@ This project focuses on analyzing e-commerce transactional data to uncover insig
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Platform:** Jupyter Notebook  
 
+
 ---
 
 ## 📁 File Structure
 
 📦 E-Commerce-Project
 ┣ 📄 Project_commerce.ipynb
+┣ 📄 Questions
 ┗ 📄 README.md
 
----
-
-## 📷 Sample Visualizations
-
-> 
 
 ---
 
@@ -54,6 +54,7 @@ git clone https://github.com/umesh0802/E-Commerce-Project.git
 2. Open the Jupyter Notebook:
 jupyter notebook Project_commerce.ipynb
 
+
 ---
 
 ## 📬 Contact
@@ -61,5 +62,3 @@ jupyter notebook Project_commerce.ipynb
 👤 **Umesh Kanojia**  
 🔗 [LinkedIn](https://www.linkedin.com/in/umesh-lalman-kanojia/)  
 📧 umeshkanojia1199@gmail.com
-
-
